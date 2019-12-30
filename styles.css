@@ -1,0 +1,151 @@
+h1 {
+  font-size: 5.62rem;
+  color:#3e206d;
+  margin-top: 50px;
+  margin-bottom: 0;
+    font-family: 'Gelasio', serif;
+}
+h2{
+  font-size: 2.5rem;
+    color:#3e206d;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.h2{
+  font-size: 2.5rem;
+    color:#3e206d;
+    font-weight: normal;
+
+}
+h3{
+  font-size: 1.5rem;
+  color: #11999E;
+}
+.h3{
+  color:black;
+  font-size: 1rem;
+
+}
+.ajayimg{
+  border-radius: 100%;
+  width: 200px;
+  margin-top: 50px;
+}
+.ajay1{
+  border-radius: 100%;
+  width: 200px;
+  margin-right: 30px;
+  float: left;
+}
+.ajay2{
+  border-radius: 100%;
+  width: 200px;
+  margin-left: 30px;
+  float: right;
+
+
+}
+body {
+  color: black;
+  margin: auto;
+  background-color:#ffc55c;
+  text-align: center;
+  font-family: 'Vidaloka', serif;
+
+}
+
+.top-container {
+  background-color:#c9b6e4;
+  text-align: center;
+  margin: auto;
+}
+
+.middle-container {
+  text-align: center;
+
+}
+.middle-container{
+background-color: #e7a4e4;
+}
+
+
+.p{
+  font-family: 'Vidaloka', serif;
+  line-height: 2;
+
+}
+
+.top-cloud{
+  position: relative;
+  left:200px;
+  padding-top:100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  margin: auto;
+}
+.profile{
+  background-color:  #be9fe1;
+
+}
+
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+.cooking{
+  clear:right;
+}
+hr{
+  clear: left;
+  border-style: none;
+  width: 10%;
+  border-radius:0;
+  border-width: 8px;
+  border-color: grey;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.p{
+  display: inline-block;
+  width:30%;
+  padding-bottom: 20px;
+}
+.btn{
+  display: inline-block;
+  padding: 20px;
+  font-size: medium;
+  background-color: #0fabbc;
+  border-style: double;
+  border-radius: 10px;
+}
+.a1{
+  color:white;
+  margin: 5px 0 5px ;
+  text-decoration:none;
+}
+.a1:hover{
+  color:red;
+}
+.btn:hover{
+  background-color: purple;
+}
+.footer-link{
+  margin: 20px 16px;
+  color:purple;
+  text-decoration:none;
+}
+.footer-link:hover{
+  color:white;
+
+}
+.bottom-container{
+  line-height: 2;
+  padding: 20px 0 16px;
+}
+.mountain{
+  width:40%;
+}
