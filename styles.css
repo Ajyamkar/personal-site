@@ -37,6 +37,10 @@ h3{
   margin-right: 30px;
   float: left;
 }
+.contact-me{
+  width: 25%;
+  display: inline-block;
+}
 .ajay2{
   border-radius: 100%;
   width: 200px;
